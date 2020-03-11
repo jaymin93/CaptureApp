@@ -39,6 +39,8 @@ namespace CaptureApp
         internal static string WebApiURL { get; private set; }
 
 
+
+
         public MainWindow()
         {
             InitializeComponent();
